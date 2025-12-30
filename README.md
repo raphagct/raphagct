@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Raphaël! 👋<br><br>I am a **3rd-year student in Computer Science & Business Management (L3 MIAGE)** at the University of Côte d'Azur in **Sophia Antipolis** (France).<br><br>Passionate about **Web Development**, I love building applications and exploring modern web technologies.<br><br>🔭 **I’m currently working on** [Bleachdle](https://github.com/raphagct/bleachdle), a web-based mini-game inspired by the *Bleach* anime universe.<br>
+Hi there, I'm Raphaël! 👋<br><br>I am a **3rd-year student in Computer Science & Business Management (L3 MIAGE)** at the University of Côte d'Azur in **Sophia Antipolis** (France).<br><br>Passionate about **Web Development**, I love building applications and exploring modern web technologies.<br><br>🔭 **I’m currently working on** [Bleachdle](https://github.com/raphagct/bleachdle), a web-based mini-game inspired by the *Bleach* anime universe.<br>
 
 
 ## 🌐 Socials:
